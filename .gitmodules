@@ -1,0 +1,3 @@
+[submodule "ansible-zookeeper"]
+	path = ansible-zookeeper
+	url = https://github.com/dixudx/ansible-zookeeper
