@@ -1,3 +1,6 @@
 [submodule "ansible-zookeeper"]
 	path = ansible-zookeeper
 	url = https://github.com/dixudx/ansible-zookeeper
+[submodule "confguru"]
+	path = confguru
+	url = https://github.com/KuraudoTama/confguru
