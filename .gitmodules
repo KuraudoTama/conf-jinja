@@ -4,3 +4,6 @@
 [submodule "confguru"]
 	path = confguru
 	url = https://github.com/KuraudoTama/confguru
+[submodule "wildlife"]
+	path = wildlife
+	url = https://github.com/dixudx/wildlife
